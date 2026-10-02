@@ -1188,6 +1188,7 @@ function App() {
             information and computational analysis
             should be independently verified.
           </p>
+          <p>Built by Janhavi Birari</p>
         </footer>
       </main>
     </div>
